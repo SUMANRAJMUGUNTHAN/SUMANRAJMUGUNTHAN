@@ -15,7 +15,7 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOUR-LINK-HERE)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sumanraj.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sumanrajmugunthan@gmail.com)
 
 ---
 
@@ -35,8 +35,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Sumanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanraj-m&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanraj-m&layout=compact&theme=github_dark)
