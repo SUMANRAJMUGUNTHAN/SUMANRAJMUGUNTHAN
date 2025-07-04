@@ -8,13 +8,13 @@
 - 🔭 I’m currently working on **Java-based web apps using JSP, Servlets, Spring Boot**
 - 🌱 I’m currently learning **Spring Security, REST APIs, and Responsive UI**
 - 💬 Ask me about **Java, Web Development, JSP, Servlets, MySQL**
-- 📫 Reach me at: **sumanraj.dev@gmail.com**
+- 📫 Reach me at: **sumanrajmugunthan@gmail.com**
 - ⚡ Fun fact: I love building both the **frontend design** and **backend logic** of apps.
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOUR-LINK-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sumanraj10)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sumanrajmugunthan@gmail.com)
 
 ---
